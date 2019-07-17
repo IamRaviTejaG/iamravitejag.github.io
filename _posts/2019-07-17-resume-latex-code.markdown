@@ -6,12 +6,8 @@ img:
 date: 2019-07-17  +0530
 ---
 
+{% highlight markdown %}
 ```Latex
-% Resume
-% Author: Ravi Teja Gannavarapu
-% Date: 17-18 April 2019
-% Last updated: 16 July 2019
-
 \documentclass[a4paper, 12pt]{article}
 
 \usepackage{titling}
@@ -118,3 +114,4 @@ date: 2019-07-17  +0530
 
 \end{document}
 ```
+{% endhighlight %}
