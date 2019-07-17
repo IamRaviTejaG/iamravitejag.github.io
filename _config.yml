@@ -1,5 +1,5 @@
 title: Ravi Teja Gannavarapu
-description: Programmer | Photographer # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -8,7 +8,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Ravi Teja Gannavarapu
 tagline: Software Developer
-about-description: A passionate programmer, a hobbyist photographer and a novice drummer. Oh, I'm also a junior year undergrad at IIIT Bhubaneswar, India. You can reach out to me anywhere via my username IamRaviTejaG.
+about-description: A passionate programmer, a hobbyist photographer and a junior year undergrad at IIIT Bhubaneswar, India. You can reach out to me anywhere via my username IamRaviTejaG.
 pic: avatar.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
