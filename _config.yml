@@ -1,6 +1,5 @@
 title: Ravi Teja Gannavarapu
-description: > # this means to ignore newlines until "baseurl:"
-  A passionate programmer, a hobbyist photographer and a novice drummer. Oh, I'm also a junior year undergrad at IIIT Bhubaneswar, India. You can reach out to me anywhere via my username **IamRaviTejaG**.
+description: Programmer | Photographer # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
