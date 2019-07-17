@@ -8,13 +8,13 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Ravi Teja Gannavarapu
 tagline: Software Developer
-about-description: A passionate programmer, a hobbyist photographer and a novice drummer. Oh, I'm also a junior year undergrad at IIIT Bhubaneswar, India. You can reach out to me anywhere via my username **IamRaviTejaG**.
+about-description: A passionate programmer, a hobbyist photographer and a novice drummer. Oh, I'm also a junior year undergrad at IIIT Bhubaneswar, India. You can reach out to me anywhere via my username IamRaviTejaG.
 pic: avatar.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: iamravitejag@gmail.com # Add your Email address
-# phone: +91-7008048761 # Add your Phone number
-website: https://iamravitejag.me # Add your website, do not add http://
+phone: "" # Add your Phone number
+website: iamravitejag.me # Add your website, do not add http://
 linkedin: iamravitejag # Add your Linkedin handle
 github: iamravitejag # Add your Github handle
 twitter: '@iamravitejag' # Add your Twitter handle
