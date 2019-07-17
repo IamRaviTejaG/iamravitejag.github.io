@@ -25,6 +25,8 @@ analytics:
 # Comments
 discus-identifier: # Add your Disqus identifier
 
+highlighter: rouge
+
 # Important settings
 assets:
   sources:

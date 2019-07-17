@@ -6,8 +6,7 @@ img:
 date: 2019-07-17  +0530
 ---
 
-{% highlight markdown %}
-```Latex
+{% highlight latex %}
 \documentclass[a4paper, 12pt]{article}
 
 \usepackage{titling}
@@ -48,7 +47,6 @@ date: 2019-07-17  +0530
 \href{https://linkedin.com/in/IamRaviTejaG}{\includegraphics[width=16px]{l1.png}}\hspace{1cm}
 \href{mailto:grt4004@gmail.com}{\includegraphics[width=16px]{e1.png}}
 \end{center}
-%\vspace{-cm}
 \vspace{-0.3cm}
 \rule{19cm}{0.01cm}
 \vspace{-1cm}
@@ -113,5 +111,4 @@ date: 2019-07-17  +0530
 \end{vwcol}
 
 \end{document}
-```
 {% endhighlight %}
