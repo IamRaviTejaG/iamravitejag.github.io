@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/iamravitejag
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iamravitejag.me
+  * I am iamravitejag (https://keybase.io/iamravitejag) on keybase.
+  * I have a public key ASAWmCTq12JYUa3ATTh6B7VWu9UD14wPc6M5-5EPmbkHOgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120169824ead7625851adc04d387a07b556bbd503d78c0f73a339fb910f99b9073a0a",
+      "host": "keybase.io",
+      "kid": "0120169824ead7625851adc04d387a07b556bbd503d78c0f73a339fb910f99b9073a0a",
+      "uid": "aadeb627eb99db9856b1ac7e9385ed19",
+      "username": "iamravitejag"
+    },
+    "merkle_root": {
+      "ctime": 1563560808,
+      "hash": "d5f3858a404be29f2123cbf46292d1e006d33d4b793885fa96ba6c6ff16012646567388866335096602aa2a21830b8b14dbb2293acf2cdb037e3bb3c133c194c",
+      "hash_meta": "ae888de1d649576840303690f442b9f4679c30a02cb498ee6f608c3a7b9f05de",
+      "seqno": 5802005
+    },
+    "service": {
+      "entropy": "lpZLDxEsHlylgVY5wnTPIUe4",
+      "hostname": "iamravitejag.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563560823,
+  "expire_in": 504576000,
+  "prev": "b106b22e6d6d91a6c6c779c24ef346201e441583719a75825bbb71f4c4123e2d",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFpgk6tdiWFGtwE04ege1VrvVA9eMD3OjOfuRD5m5BzoKp3BheWxvYWTESpcCHsQgsQayLm1tkabGx3nCTvNGIB5EFYNxmnWCW7tx9MQSPi3EIKIePsndChb9kJ/L8KmDbU4ZG5YuZbMpEHZghhHSvMjbAgHCo3NpZ8RAagf1BEuhB/ifjJEuF2JqkPiotbIdagvT7CD7kC6JfITu4FyqBC4k92HxFTkv1+zxQo+tH5/DNrMD4ogxWJDgAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIJ0niHlNlLcg1fi4fFC2/WaPsBPCpn3AzR1C0yg4vDGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iamravitejag
+
+==================================================================
